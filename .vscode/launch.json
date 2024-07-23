@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localhost:3000/patients/669eaba300117d4549f0/new-appointment",
+            "request": "launch",
+            "url": "http://localhost:3000/patients/669eaba300117d4549f0/new-appointment"
+        }
+    ]
+}
